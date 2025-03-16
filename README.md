@@ -3,7 +3,7 @@
 An **iOS** project that integrates **ARKit**, **RealityKit**, and **SwiftUI** to create an immersive augmented reality experience. This project demonstrates **3D model placement**, object interactions, measure length / height of objects and a modern SwiftUI-based UI.
 
 ## Features
-![Demo](https://github.com/user-attachments/assets/f5d13846-d22e-4c8a-87b0-52aa2390edde)
+[Demo](https://github.com/user-attachments/assets/f5d13846-d22e-4c8a-87b0-52aa2390edde)
 
 ### MeasureAR
 - **Measurement Feature**: Measure real-world distances and length/height of real world objects.
