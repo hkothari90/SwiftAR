@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Table #1",
+    "category": "table",
+    "image": "table_1",
+    "modelName": "table_1",
+    "scaleCompensation" : 1.1
+  },
+  {
+    "name": "Table #4",
+    "category": "table",
+    "image": "table_4",
+    "modelName": "table_4",
+    "scaleCompensation" : 0.0015
+  },
+  {
+    "name": "Chair #2",
+    "category": "chair",
+    "image": "chair_2",
+    "modelName": "chair_2",
+    "scaleCompensation" : 1.1
+  },
+  {
+    "name": "Chair #4",
+    "category": "chair",
+    "image": "chair_4",
+    "modelName": "chair_4",
+    "scaleCompensation" : 0.025
+  },
+  {
+    "name": "Decor #1",
+    "category": "decor",
+    "image": "decor_1",
+    "modelName": "decor_1",
+    "scaleCompensation" : 1
+  },
+  {
+    "name": "Decor #7",
+    "category": "decor",
+    "image": "decor_7",
+    "modelName": "decor_7",
+    "scaleCompensation" : 0.6
+  }
+]
