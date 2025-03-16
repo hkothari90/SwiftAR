@@ -7,7 +7,6 @@ An **iOS** project that integrates **ARKit**, **RealityKit**, and **SwiftUI** to
 
 ### MeasureAR
 - **Measurement Feature**: Measure real-world distances and length/height of real world objects.
-- **AR Model Placement**: Drag and drop 3D objects into the real world.
 
 ### RoomAR
 - **AR Model Placement**: Drag and drop 3D objects into the real world.
